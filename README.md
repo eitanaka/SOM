@@ -1,1 +1,1 @@
-# SOM
+# Self-Organizaing Feature Map
